@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YouKnowWhokkk
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning java, go and running to computer.
+- 💞️ I’m looking to collaborate on myself.
 - 📫 How to reach me ，I don't know!!
 
 <!---
